@@ -38,7 +38,7 @@ Esta é uma API de recursos educacionais do Instituto Tecnológico de Aeronáuti
 - Node.js: plataforma de desenvolvimento JavaScript
 - Express: framework web para criação de APIs
 - Sequelize: ORM (Object-Relational Mapping) para interagir com o banco de dados relacional
-- PostgreSQL: banco de dados relacional para armazenamento dos dados
+- MySQL: banco de dados relacional para armazenamento dos dados
 
 ## Endpoints
 
